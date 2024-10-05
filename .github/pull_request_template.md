@@ -7,7 +7,7 @@
 * [ ] Add or change doctests? -- Note: Please avoid changing both code and tests in a single pull request.
 * [ ] Documentation change?
 
-### Checklist:
+### Checklist: tet
 * [ ] I have read [CONTRIBUTING.md](https://github.com/TheAlgorithms/Python/blob/master/CONTRIBUTING.md).
 * [ ] This pull request is all my own work -- I have not plagiarized.
 * [ ] I know that pull requests will not be merged if they fail the automated tests.
